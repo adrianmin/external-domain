@@ -25,7 +25,7 @@ components:
           format: int64
         name:
           type: string
-          example: doggie
+          example: Smartbear
         photoUrls:
           type: array
           xml:
