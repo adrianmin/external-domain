@@ -23,7 +23,10 @@ components:
         id:
           type: integer
           format: int64
-        name:
+        firstname:
+          type: string
+          example: Adrian
+        lastname:
           type: string
           example: Smartbear
         photoUrls:
